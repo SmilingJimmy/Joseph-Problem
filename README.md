@@ -23,6 +23,6 @@
 
 ## Answer
 
-- Joseph_Problem.java
+- [Joseph_Problem.java](Joseph_Problem.java)
 
 - Joseph_Problem.py
