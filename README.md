@@ -1,3 +1,5 @@
+# Joseph Problem
+
 ## Question
 
 - Suppose there are  _M_  kids (numbered 1 - _M_ ) in a  **circle** .
