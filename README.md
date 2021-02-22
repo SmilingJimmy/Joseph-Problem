@@ -25,4 +25,4 @@
 
 - [Joseph_Problem.java](Joseph_Problem.java)
 
-- Joseph_Problem.py
+- [Joseph_Problem.py](Joseph_Problem.py)
